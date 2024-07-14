@@ -1,0 +1,11 @@
+.edit-video {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .edit-video input,
+  .edit-video select,
+  .edit-video textarea {
+    margin-bottom: 10px;
+  }
+  

@@ -1,0 +1,10 @@
+.new-category {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .new-category input,
+  .new-category textarea {
+    margin-bottom: 10px;
+  }
+  

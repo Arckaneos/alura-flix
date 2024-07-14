@@ -1,0 +1,10 @@
+.edit-category {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .edit-category input,
+  .edit-category textarea {
+    margin-bottom: 10px;
+  }
+  
