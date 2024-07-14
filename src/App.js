@@ -5,7 +5,6 @@ import NewCategory from './components/NewCategory';
 import EditCategory from './components/EditCategory';
 import NewVideo from './components/NewVideo';
 import EditVideo from './components/EditVideo';
-import { DataProvider } from './components/DataProvider';
 
 function App() {
   return (
