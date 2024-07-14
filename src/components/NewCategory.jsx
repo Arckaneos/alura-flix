@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+//import { useData } from './DataProvider';
 
 function NewCategory() {
   const { addCategory } = useData();
