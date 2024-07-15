@@ -66,6 +66,12 @@ Utilizaremos json-server para emular una API y verificar el funcionamiento de la
 - Carousel
 - React-slick
 
+### Deploy
+
+[Vercel](https://alura-flix-one-taupe.vercel.app/)
+
+![6694cd3a40026_download](https://github.com/user-attachments/assets/6bbbd056-a8a1-494b-9844-389c36858a21)
+
 ## Agradecimientos
 
 - ONE – Oracle Next Education - [Oracle](https://www.oracle.com/lad/education/oracle-next-education/)
