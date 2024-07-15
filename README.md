@@ -68,8 +68,12 @@ Utilizaremos json-server para emular una API y verificar el funcionamiento de la
 
 - ONE – Oracle Next Education - [Oracle](https://www.oracle.com/lad/education/oracle-next-education/)
 
-![6694999c417c4_download](https://github.com/user-attachments/assets/ccb849b1-13ce-4492-8059-b6bfdd21182e)
+![6694999c417c4_download](https://github.com/user-attachments/assets/ccb849b1-13ce-4492-8059-b6bfdd21182e)      
 
 - Alura LATAM - [Alura](https://www.aluracursos.com/)
 
 ![66936cf346147_download](https://github.com/user-attachments/assets/7f4e7726-5c87-467e-89df-6c43d87fe95a)
+
+- StalinAM -  [StalinAM](https://github.com/StalinAM)
+
+![66949a9eb196c_download](https://github.com/user-attachments/assets/9a9b0bae-54be-4bf4-9305-5b9e8317b0b3)
