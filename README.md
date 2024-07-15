@@ -1,6 +1,6 @@
 # Desafio Aluraflix
 El siguiente desafio trata sobre hacer una pagina tipo Netflix, pero con los videos de Alura Latam como base, ingresaremos los videos a nuestra plataforma y tambien crearemos nuestras categorias,
-como Backend o Frontend y utulizaremos varias tecnologias, pero nuestra tecnologia principal sera React, utilizaremos varias otras como JS, CSS, Node JS y mas para lograr cumplir el reto.
+como Backend o Frontend y utilizaremos varias tecnologias, pero nuestra tecnologia principal sera React, utilizaremos varias otras como JS, CSS, Node JS y mas para lograr cumplir el reto.
 
 # Aluraflix
 ![logo](https://github.com/user-attachments/assets/2263bc12-d77e-4145-a03a-5a7959fbef73)
