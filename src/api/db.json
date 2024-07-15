@@ -1,0 +1,67 @@
+{
+    "videos": [
+      {
+        "id": 1,
+        "titulo": "Banco de datos MySQL",
+        "descripcion": "En esta serie de videos en alianza con Oracle, explicaremos y exploraremos las herramientas de Oracle. En este episodio recibimos a Narciso Junior, quien se desempeña como LATAM Cloud Evangelist en la empresa.",
+        "imagen": "https://i.ytimg.com/vi/8J0AoPZMVxA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUArYg1JDUH2sokYNKsrzDINQ2VQ",
+        "video": "https://www.youtube.com/watch?v=8J0AoPZMVxA&ab_channel=AluraLatam",
+        "categoria": "Backend"
+      },
+      {
+        "id": 2,
+        "titulo": "Accesibilidad Web",
+        "descripcion": "En este Alura+, la instructora Barbara dos Santos y nuestra Scuba Mariana Costa, se juntan para hablar de un tema de extrema importancia para cualquier desarrollador: Accesibilidad Web.",
+        "imagen": "https://i.ytimg.com/vi/ngMOsuZL-XE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtvexnpgzDc4-AlQJGDPeM1LQs2A",
+        "video": "https://www.youtube.com/watch?v=ngMOsuZL-XE&ab_channel=AluraLatam",
+        "categoria": "Frontend"
+      },
+     {
+        "id": 3,
+        "titulo": "Equipo Front End #AluraMás",
+        "descripcion": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?",
+        "imagen": "https://i.ytimg.com/vi/rpvrLaBQwgg/hqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+        "categoria": "Frontend"
+      },
+     {
+        "id": 4,
+        "titulo": "CPT: Tu ruta front-end ¿Qué aprender y por donde empezar para ser Dev Frontend?",
+        "descripcion": "¿Alguna vez te has preguntado por dónde empezar en el mundo del desarrollo web frontend? ¡Estás en el lugar correcto! En esta transmisión en vivo, exploraremos juntos la emocionante ruta hacia convertirte en un Desarrollador Web Frontend.",
+        "imagen": "https://i.ytimg.com/vi/LVMh1vrENfA/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=LVMh1vrENfA",
+        "categoria": "Frontend"
+      },
+     {
+        "id": 5,
+        "titulo": "Explorando el poder del Back-End en el Desarrollo Web",
+        "descripcion": "¿Que es Back End? ¿Porque empezar su carrera con Back End? todas estas y mas preguntas las resolveres aqui en este video.",
+        "imagen": "https://i.ytimg.com/vi/Z024LSCMqFk/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?app=desktop&v=Z024LSCMqFk",
+        "categoria": "Backend"
+      },
+     {
+        "id": 6,
+        "titulo": "Especialidad BACKEND | RESUMEN SEMANA 1 - 3 | Oracle Next Education + Alura Latam",
+        "descripcion": "Bienvenidos al Resumen de la semana 1, 2 y 3 de la especialización en Backend de Oracle Next Education @AluraLatam @Oracle",
+        "imagen": "https://i.ytimg.com/vi/b71kWley8-o/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=b71kWley8-o",
+        "categoria": "Backend"
+      }
+    ],
+    "categorias": [
+      {
+        "id": 1,
+        "titulo": "Frontend",
+        "descripcion": "Desarrollo de la interfaz de usuario y la interacción del usuario en un sitio web.",
+        "color": "#3498db"
+      },
+      {
+        "id": 2,
+        "titulo": "Backend",
+        "descripcion": "Desarrollo de la lógica y la funcionalidad detrás de un sitio web.",
+        "color": "#2ecc71"
+      }
+    ]
+  }
+  

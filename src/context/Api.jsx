@@ -2,8 +2,8 @@ import { createContext } from 'react'
 import useGetData from '../hooks/useGetData'
 export const ApiContext = createContext()
 
-const URL_CATEGORY = 'https://api-alura-flix.vercel.app/categorias'
-const URL_VIDEOS = 'https://api-alura-flix.vercel.app/videos'
+const URL_CATEGORY = 'http://localhost:5000/categorias'
+const URL_VIDEOS = 'http://localhost:5000/videos'
 
 function Api({ children }) {
   const { data: categories, refreshData: refreshListCategories } =

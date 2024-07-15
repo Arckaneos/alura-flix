@@ -1,13 +1,14 @@
-import React from 'react';
-import './index.css';
-import App from './App';
-import ReactDOM from 'react-dom';
-import './styles/App.css';
+import ReactDOM from 'react-dom/client'
+import App from './App.jsx'
+import './index.css'
+import '@fontsource-variable/roboto-flex'
+import { BrowserRouter } from 'react-router-dom'
+import ApiContext from './context/Api.jsx'
 
-
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <DataProvider>
-    <App />
-  </DataProvider>, 
-);
+ReactDOM.createRoot(document.getElementById('root')).render(
+  <BrowserRouter>
+    <ApiContext>
+      <App />
+    </ApiContext>
+  </BrowserRouter>
+)

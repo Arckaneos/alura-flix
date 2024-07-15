@@ -8,9 +8,8 @@ function Banner() {
       <div className='flex flex-col gap-4 max-w-[60ch] items-start [&>a]:w-auto'>
         <h2 className='text-slate-100 text-5xl'>Alura Latam</h2>
         <p>
-          Cursos de calidad para tu crecimiento profesional. Aprende a tu ritmo,
-          en cualquier momento y lugar. Únete a nosotros y avanza en el mundo
-          digital con Alura Latam.
+          Cursos de Alura para para el conocimiento de las Tecnologias,
+          en cualquier momento y lugar. Únete a Aluraflix y avanza en el mundo.
         </p>
         <Button name='Ver' to='/' />
       </div>

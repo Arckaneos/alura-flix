@@ -62,7 +62,7 @@ function NewCategory() {
   return (
     <section className='flex flex-col gap-4 mt-10'>
       <form className='flex flex-col gap-4' action='submit'>
-        <h2 className='text-xl text-blue-400 font-medium'>Nuevo producto</h2>
+        <h2 className='text-xl text-blue-400 font-medium'>Nueva Categoria</h2>
         <Input
           label='Título'
           name='titulo'
@@ -71,7 +71,7 @@ function NewCategory() {
         />
         <div className='relative w-full'>
           <Input
-            label='Color'
+            label='color'
             name='color'
             value={infoCategory.color}
             handleChange={handleOnChange}

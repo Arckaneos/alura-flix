@@ -52,10 +52,10 @@ function NewVideo() {
   return (
     <section className='flex flex-col gap-4 mt-10'>
       <form className='flex flex-col gap-4 ' action='submit'>
-        <h2 className='text-xl text-blue-400 font-medium'>Nuevo producto</h2>
+        <h2 className='text-xl text-blue-400 font-medium'>Nuevo Video</h2>
         <Input
           name='titulo'
-          label='Título'
+          label='Título del video'
           value={infoVideo.titulo}
           handleChange={handleInputChange}
         />
@@ -74,7 +74,7 @@ function NewVideo() {
         />
         <TextArea
           name='descripcion'
-          label='Descripción'
+          label='Descripción corta del video'
           value={infoVideo.descripcion}
           handleInputChange={handleInputChange}
         />
@@ -85,7 +85,7 @@ function NewVideo() {
           </div>
           <div>
             <Button
-              name='Nueva categoría'
+              name='Agregar una nueva categoría'
               path='/nueva-categoria'
               position='left'
             />
