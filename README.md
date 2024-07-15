@@ -3,6 +3,8 @@ El siguiente desafio trata sobre hacer una pagina tipo Netflix, pero con los vid
 como Backend o Frontend y utilizaremos varias tecnologias, pero nuestra tecnologia principal sera React, utilizaremos varias otras como JS, CSS, Node JS y mas para lograr cumplir el reto.
 
 # Aluraflix
+![aluraflix](https://github.com/user-attachments/assets/8139b5ab-2e48-4578-981a-411b253f2cfd)
+
 ![logo](https://github.com/user-attachments/assets/2263bc12-d77e-4145-a03a-5a7959fbef73)
 
 ![descargar (1)](https://github.com/user-attachments/assets/769e7938-ede5-480b-9a5a-71dfb3ecad59) ![descargar](https://github.com/user-attachments/assets/6d1c93c9-4573-4a26-913f-05ea7b958d62) ![descargar (2)](https://github.com/user-attachments/assets/4d3c9171-f20e-46da-adce-238e14400bb5) ![descargar (3)](https://github.com/user-attachments/assets/0b01792c-e9f5-4b6f-88fd-090da5d348e7) ![descargar (5)](https://github.com/user-attachments/assets/a8f5e290-87e6-4068-9536-89a66a8650ef) ![descargar (4)](https://github.com/user-attachments/assets/e06c0f07-db31-44cf-b98d-3da894e108ec)
