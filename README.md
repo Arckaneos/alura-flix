@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+# Desafio Aluraflix
+El siguiente desafio trata sobre hacer una pagina tipo Netflix, pero con los videos de Alura Latam como base, ingresaremos los videos a nuestra plataforma y tambien crearemos nuestras categorias,
+como Backend o Frontend y utulizaremos varias tecnologias, pero nuestra tecnologia principal sera React, utilizaremos varias otras como JS, CSS, Node JS y mas para lograr cumplir el reto.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Aluraflix
+![logo](https://github.com/user-attachments/assets/2263bc12-d77e-4145-a03a-5a7959fbef73)
 
-## Available Scripts
+![descargar (1)](https://github.com/user-attachments/assets/769e7938-ede5-480b-9a5a-71dfb3ecad59) ![descargar](https://github.com/user-attachments/assets/6d1c93c9-4573-4a26-913f-05ea7b958d62) ![descargar (2)](https://github.com/user-attachments/assets/4d3c9171-f20e-46da-adce-238e14400bb5) ![descargar (3)](https://github.com/user-attachments/assets/0b01792c-e9f5-4b6f-88fd-090da5d348e7) ![descargar (5)](https://github.com/user-attachments/assets/a8f5e290-87e6-4068-9536-89a66a8650ef) ![descargar (4)](https://github.com/user-attachments/assets/e06c0f07-db31-44cf-b98d-3da894e108ec)
 
-In the project directory, you can run:
+## Resumen del Proyecto
 
-### `npm start`
+### Requisitos del desafío Aluraflix
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Crear el componente de Registro de Nueva Categoría
+- Crear el componente de Registro de Nuevo Video
+- Crear el componente Home
+- Crear las Rutas que para navegar entre las diferentes páginas de la aplicación
+- Hacer las llamadas al servidor
+- Usar el json-server para simular una API y verificar el funcionamiento de la aplicación
+- Hacer el deploy de la aplicación
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Características
 
-### `npm test`
+#### Registro de Nueva Categoría
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Es la que nos permite crear una nueva Categoria que despues asignaremos en un video, facilitando asi la busqueda de tales videos en especificos
 
-### `npm run build`
+#### Registro de Nuevo Video
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Es la base principal del Desafio donde podremos mostrar los videos que estaran en nuestra plataforma
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### Navegación entre Páginas
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Crearemos un sistema de rutas que nos permitira movernos entre las diferentes paginas de forma dinamica.
 
-### `npm run eject`
+#### Integración con el Servidor
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Realizaremos llamadas al servidor para interactuar con la base de datos y obtener la información necesaria para mostrar en la aplicación.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### Simulación de API con json-server
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Utilizaremos json-server para emular una API y verificar el funcionamiento de la plataforma.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Tecnologias que se utilizaron:
 
-## Learn More
+- HTML
+- CSS
+- JavaScript
+- React
+- Node JS
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![66936eafbf919_download](https://github.com/user-attachments/assets/32946334-b1f0-4906-ba74-e44d707230a5)
+![66936ea673fb0_download](https://github.com/user-attachments/assets/5b772904-6e41-4708-9a32-6ec0c4caa328)
+![66936e9a3fc5b_download](https://github.com/user-attachments/assets/8852cbb8-f91f-4acc-b6cc-0e62d3c7c10d)
+![669496354b975_download](https://github.com/user-attachments/assets/a8587bfc-2146-4cbf-ad99-9d7e5b851c2b)
+![669497b5ad3ba_download](https://github.com/user-attachments/assets/1662a11d-02db-499c-ad87-9aba2f82ce93)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Dependcias que ocuparemos:
 
-### Code Splitting
+- React router
+- Json-Server
+- tailwindcss
+- robot-flex
+- Carousel
+- React-slick
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Agradecimientos
 
-### Analyzing the Bundle Size
+- ONE – Oracle Next Education - [Oracle](https://www.oracle.com/lad/education/oracle-next-education/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![6694999c417c4_download](https://github.com/user-attachments/assets/ccb849b1-13ce-4492-8059-b6bfdd21182e)
 
-### Making a Progressive Web App
+- Alura LATAM - [Alura](https://www.aluracursos.com/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![66936cf346147_download](https://github.com/user-attachments/assets/7f4e7726-5c87-467e-89df-6c43d87fe95a)
